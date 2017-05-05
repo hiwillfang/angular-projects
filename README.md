@@ -1,2 +1,2 @@
-# ANGULAR PROJECTS FOLDER
-* A folder of projects created using Angular (version 4).
+# NG-4 Projects Folder
+Various Angular projects created using Angular (version 4).
