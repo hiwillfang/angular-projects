@@ -1,11 +1,11 @@
-# NG-4 Projects Folder
+# Angular Projects Folder
 Various Angular projects created with Angular version 4.
 
 ## Development Server
 Projects were either created using Angular Quickstart or Angular CLI. To run web server for Angular Quickstart projects run `npm start` and for projects utilizing the CLI run `ng serve`.
 
 ## Code Scaffolding
-To create new components for any of these projects you can run `ng generate component component-name` or shorthand notation by running `ng g c component-name`. 
+To create new components for any of these projects you can run `ng generate component component-name` or use the shorthand notation by running `ng g c component-name`. 
 
 ## Unit Testing
 To run unit tests via [Karma] (https://karma-runner.github.io/1.0/index.html) run `ng test` to execute tests.
